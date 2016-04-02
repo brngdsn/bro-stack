@@ -1,14 +1,14 @@
 import {ComponentMetadata as Component, ViewMetadata as View, bootstrap} from 'angular2/angular2';
-import {Thntctn0} from 'thntctn-0';
+import {BroStack} from 'bro-stack';
 
 @Component({
   selector: 'main'
 })
 
 @View({
-  directives: [Thntctn0],
+  directives: [BroStack],
   template: `
-    <thntctn-0></thntctn-0>
+    <bro-stack></bro-stack>
   `
 })
 

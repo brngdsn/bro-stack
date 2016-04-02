@@ -1,3 +1,3 @@
-# thntctn0 [![Build Status](https://travis-ci.org/brngdsn/thntctn0.svg?branch=master)](https://travis-ci.org/brngdsn/thntctn0)
+# bro-stack [![Build Status](https://travis-ci.org/brngdsn/bro-stack.svg?branch=master)](https://travis-ci.org/brngdsn/bro-stack)
 
-angular firebase auth0 app
+for bro-stacking
